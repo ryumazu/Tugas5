@@ -32,7 +32,7 @@ print("==================================================================")
 
 
 
-![flowchart](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/Flowchart%20data%20tugas5.png)
-![output1](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20out%201.png)
-![output2](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20out%202.png)
-![input](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20input.png)
+![flowchart](https://github.com/ryumazu/Tugas5/blob/master/gambar/Flowchart%20data%20tugas5.png)
+![output1](https://github.com/ryumazu/Tugas5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20out%201.png)
+![output2](https://github.com/ryumazu/Tugas5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20out%202.png)
+![input](https://github.com/ryumazu/Tugas5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20input.png)
